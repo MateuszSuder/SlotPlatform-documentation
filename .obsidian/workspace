@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "7bae9a2d636c532a",
+    "type": "split",
+    "children": [
+      {
+        "id": "99a742636f7e1c5e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Platform/Sequences/Authish sequences.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b07869008969ad3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6a999580fc4dc90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "297645c4b3ab1612",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e15146f9a7e33731",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a110a9580031a3c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d480b592331ccbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d1fe8b0fb6782f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Platform/Sequences/Authish sequences.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "99a742636f7e1c5e",
+  "lastOpenFiles": [
+    "Platform/Sequences/Authish sequences.md",
+    "Platform/About.md",
+    "Summary.md",
+    "Frontend/Backend.md"
+  ]
+}
