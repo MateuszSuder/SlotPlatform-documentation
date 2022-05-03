@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Platform/Sequences/Authish sequences.md",
+            "file": "Platform/Sequences/API key request.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Platform/Sequences/Authish sequences.md",
+                "file": "Platform/Sequences/API key request.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "99a742636f7e1c5e",
   "lastOpenFiles": [
+    "Platform/Sequences/API key request.md",
     "Platform/Sequences/Authish sequences.md",
     "Platform/About.md",
     "Summary.md",
