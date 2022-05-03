@@ -1,4 +1,4 @@
-# Registration flow of user
+## Registration flow of user
 Users will be kept in Auth0 platform. Additional information like balance will be in database.
 
 ```mermaid
@@ -29,7 +29,7 @@ sequenceDiagram
 	end
 ```
 
-# Login
+## Login
 ```mermaid
 sequenceDiagram
 	User->>+Webapp: Request login form

@@ -6,6 +6,5 @@ Purpose of this project is to create platform which provide services for people 
 
 # What is basic structure of this project?
 Project will contain primary sub-projects:
-- [Frontend/Backend](About.md) for demo and registration to use platform
-- Dashboard to handle your users
+- [Frontend/Backend](About.md) for testing slots.
 - Slots in pixi along with backend
